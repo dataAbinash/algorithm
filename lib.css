@@ -1,0 +1,15 @@
+.noti{
+    width: auto;
+    text-align: center;
+    padding: 10px;
+    color: #aaa;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.click{
+    transition: 0.1s linear transform;
+}
+.click:active{
+    transform: scale(0.99);
+}
